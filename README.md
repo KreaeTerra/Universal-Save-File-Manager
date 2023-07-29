@@ -1,6 +1,10 @@
 # Universal Save File Manager
 
-## Features
-to be implemented...
+This software allows you to externally copy your save files from carious games and export them to specific locations.
 
-### this is a third level header
+## Features
+• Copying of save files of any game that provides it on the open
+• Creating presets for different game paths
+
+### Planned Features
+•Possible integration with Google Drive
