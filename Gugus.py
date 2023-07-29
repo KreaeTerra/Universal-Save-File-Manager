@@ -23,7 +23,7 @@ dest_label = tk.Label(text= "Destination")
 dest_label.grid(row=1, column=0)
 
 dest_entry = tk.Entry(width= 35)
-dest_entry.insert(0, r"C:\Users\tugsa\Desktop\test")
+dest_entry.insert(0, r"D:\Files\SaveBackup")
 dest_entry.grid(row=1, column=1)
 
 
