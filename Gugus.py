@@ -27,7 +27,7 @@ dest_entry.insert(0, r"D:\Files\SaveBackup")
 dest_entry.grid(row=1, column=1)
 
 
-
+#function to save the file
 def SaveFile():
     copy2(str(source_entry.get()), str(dest_entry.get()))
 
